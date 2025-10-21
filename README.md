@@ -6,7 +6,6 @@
 Crafting accessible, high-performance digital experiences with data-driven insights.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML%2FAI+Engineer;UI%2FUX+Specialist;Computer+Vision+Researcher&cache_seconds=86400)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://ishauryai.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya)&nbsp;
