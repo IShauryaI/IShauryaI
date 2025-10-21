@@ -5,6 +5,13 @@
 **UI/UX Engineer • ML/AI Developer • Full Stack Architect**  
 Crafting accessible, high-performance digital experiences with data-driven insights.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
+
+<!-- Fallback for typing: visible text shown if image fails below -->
+<p><em>Full Stack Developer • ML/AI Engineer • UI/UX Specialist • Computer Vision Researcher</em></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML%2FAI+Engineer;UI%2FUX+Specialist;Computer+Vision+Researcher&cache_seconds=7200&v=2)](https://git.io/typing-svg)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://ishauryai.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryapd@gmail.com)
@@ -19,7 +26,7 @@ Crafting accessible, high-performance digital experiences with data-driven insig
 <tr>
 <td width="50%">
 
-### [Pranachain](https://github.com/IShauryaI/pranachain)
+### [🏥 Pranachain](https://github.com/IShauryaI/pranachain)
 **AI + Blockchain Healthcare** • Planning Phase Fall 2025  
 Academic-industry initiative exploring AI and blockchain for healthcare data integrity and predictive analytics.
 
@@ -28,7 +35,7 @@ Academic-industry initiative exploring AI and blockchain for healthcare data int
 </td>
 <td width="50%">
 
-### [AI Wellness Platform](https://github.com/IShauryaI/wellbeingaifinalversion) 
+### [🧠 AI Wellness Platform](https://github.com/IShauryaI/wellbeingaifinalversion) 
 **React + TypeScript + ML** • Personalized Health Insights  
 Intelligent wellness application leveraging machine learning for personalized health recommendations and analytics.
 
@@ -39,7 +46,7 @@ Intelligent wellness application leveraging machine learning for personalized he
 <tr>
 <td width="50%">
 
-### [Stereo Vision & 3D Reconstruction](https://github.com/IShauryaI/stereo-vision-reconstruction)
+### [👀 Stereo Vision & 3D Reconstruction](https://github.com/IShauryaI/stereo-vision-reconstruction)
 **OpenCV + Python** • End-to-End Computer Vision Pipeline  
 Complete stereo vision system from camera calibration to dense 3D point-cloud reconstruction with interactive visualization.
 
@@ -48,7 +55,7 @@ Complete stereo vision system from camera calibration to dense 3D point-cloud re
 </td>
 <td width="50%">
 
-### [Microloan Fraud Detection](https://github.com/IShauryaI/microloan-fraud-detection)
+### [🔍 Microloan Fraud Detection](https://github.com/IShauryaI/microloan-fraud-detection)
 **ML + Data Warehousing** • 11M+ Records Analyzed  
 Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines, and rule-based scoring.
 
@@ -65,7 +72,7 @@ Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines
 ### 🎨 Frontend & UI/UX
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -89,17 +96,24 @@ Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines
 
 ## 📊 GitHub Analytics
 
+<!-- Text fallbacks directly under each image ensure content remains visible if images fail -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IShauryaI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShauryaI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&cache_seconds=1800" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IShauryaI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200&v=2" alt="GitHub Stats (fallback below)" />
+  
+  <br/>
+  <sub>Fallback: GitHub activity stats (commits, PRs, stars). If the image above doesn’t load, data may be rate-limited; refresh in a minute.</sub>
+  
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShauryaI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&cache_seconds=7200&v=2" alt="Top Languages (fallback below)" />
+  <br/>
+  <sub>Fallback: Language breakdown based on public repos.</sub>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=IShauryaI&theme=tokyonight&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=IShauryaI&theme=tokyonight&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false&cache_seconds=7200&v=2" alt="GitHub Streak (fallback below)" />
+  <br/>
+  <sub>Fallback: Contribution streak (current, longest, total). If not visible, try a refresh in 1–2 minutes.</sub>
 </div>
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
 
 ---
 
@@ -130,34 +144,10 @@ const currentGoals = {
 
 ---
 
-<details>
-<summary>🔗 More Projects</summary>
-<br>
-
-### [🛒 Grocery Delivery System](https://github.com/IShauryaI/grocery_delivery)
-**Django + MySQL** • Real-time Order Management  
-Comprehensive delivery platform with secure payments, inventory management, and multi-user dashboards.
-
-### [✨ Interactive Portfolio Showcase](https://github.com/IShauryaI/shaurya-unfold)
-**React 18 + Vite** • 171+ Monthly Visitors  
-Responsive portfolio application with modern component architecture and comprehensive analytics.
-
-### [🌐 Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io)
-**Astro + Tailwind CSS** • Lighthouse 98+ • WCAG 2.1 AA  
-Performance-optimized portfolio site with dark/light themes, responsive design, and accessibility-first architecture.
-
-</details>
-
----
-
 <div align="center">
 
-**"Building bridges between intelligent systems, beautiful design, and robust engineering."**
+[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=ishauryai&theme=dark&border=no-border&cache_seconds=7200&v=2)](https://leetcode.com/ishauryai/)
 
-[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=ishauryai&theme=dark&border=no-border)](https://leetcode.com/ishauryai/)
-
----
-
-*Open to collaboration • Available for opportunities • Always learning*
+<sub>If this badge doesn’t load, LeetCode’s public API rate limit may be reached; check again later.</sub>
 
 </div>
