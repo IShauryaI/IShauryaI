@@ -5,8 +5,6 @@
 **UI/UX Engineer • ML/AI Developer • Full Stack Architect**  
 Crafting accessible, high-performance digital experiences with data-driven insights.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://ishauryai.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryapd@gmail.com)
@@ -99,6 +97,9 @@ Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines
 <div align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=IShauryaI&theme=tokyonight&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </div>
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
 
 ---
 
