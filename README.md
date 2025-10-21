@@ -15,13 +15,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### [🏥 Pranachain](https://github.com/IShauryaI/pranachain)
+### [Pranachain](https://github.com/IShauryaI/pranachain)
 **AI + Blockchain Healthcare** • Planning Phase Fall 2025  
 Academic-industry initiative exploring AI and blockchain for healthcare data integrity and predictive analytics.
 
@@ -30,7 +30,7 @@ Academic-industry initiative exploring AI and blockchain for healthcare data int
 </td>
 <td width="50%">
 
-### [🧠 AI Wellness Platform](https://github.com/IShauryaI/wellbeingaifinalversion) 
+### [AI Wellness Platform](https://github.com/IShauryaI/wellbeingaifinalversion) 
 **React + TypeScript + ML** • Personalized Health Insights  
 Intelligent wellness application leveraging machine learning for personalized health recommendations and analytics.
 
@@ -41,7 +41,7 @@ Intelligent wellness application leveraging machine learning for personalized he
 <tr>
 <td width="50%">
 
-### [👀 Stereo Vision & 3D Reconstruction](https://github.com/IShauryaI/stereo-vision-reconstruction)
+### [Stereo Vision & 3D Reconstruction](https://github.com/IShauryaI/stereo-vision-reconstruction)
 **OpenCV + Python** • End-to-End Computer Vision Pipeline  
 Complete stereo vision system from camera calibration to dense 3D point-cloud reconstruction with interactive visualization.
 
@@ -50,7 +50,7 @@ Complete stereo vision system from camera calibration to dense 3D point-cloud re
 </td>
 <td width="50%">
 
-### [🔍 Microloan Fraud Detection](https://github.com/IShauryaI/microloan-fraud-detection)
+### [Microloan Fraud Detection](https://github.com/IShauryaI/microloan-fraud-detection)
 **ML + Data Warehousing** • 11M+ Records Analyzed  
 Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines, and rule-based scoring.
 
@@ -137,15 +137,15 @@ const currentGoals = {
 <summary>🔗 More Projects</summary>
 <br>
 
-### [🛒 Grocery Delivery System](https://github.com/IShauryaI/grocery_delivery)
+### [Grocery Delivery System](https://github.com/IShauryaI/grocery_delivery)
 **Django + MySQL** • Real-time Order Management  
 Comprehensive delivery platform with secure payments, inventory management, and multi-user dashboards.
 
-### [✨ Interactive Portfolio Showcase](https://github.com/IShauryaI/shaurya-unfold)
+### [Interactive Portfolio Showcase](https://github.com/IShauryaI/shaurya-unfold)
 **React 18 + Vite** • 171+ Monthly Visitors  
 Responsive portfolio application with modern component architecture and comprehensive analytics.
 
-### [🌐 Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io)
+### [Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io)
 **Astro + Tailwind CSS** • Lighthouse 98+ • WCAG 2.1 AA  
 Performance-optimized portfolio site with dark/light themes, responsive design, and accessibility-first architecture.
 
@@ -156,8 +156,6 @@ Performance-optimized portfolio site with dark/light themes, responsive design, 
 <div align="center">
 
 **"Building bridges between intelligent systems, beautiful design, and robust engineering."**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishauryai/)
 
 *Open to collaboration • Available for opportunities • Always learning*
 
