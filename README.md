@@ -3,14 +3,9 @@
 # Hi, I'm Shaurya 👋
 
 **UI/UX Engineer • ML/AI Developer • Full Stack Architect**  
-Crafting accessible, high-performance digital experiences with data-driven insights.
+*Building AI-powered products across computer vision, data platforms, and full-stack web*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
-
-<!-- Fallback for typing: visible text shown if image fails below -->
-<p><em>Full Stack Developer • ML/AI Engineer • UI/UX Specialist • Computer Vision Researcher</em></p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML%2FAI+Engineer;UI%2FUX+Specialist;Computer+Vision+Researcher&cache_seconds=7200&v=2)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat-square&label=Profile+Views)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://ishauryai.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya)&nbsp;
@@ -94,25 +89,19 @@ Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Text fallbacks directly under each image ensure content remains visible if images fail -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IShauryaI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200&v=2" alt="GitHub Stats (fallback below)" />
-  
-  <br/>
-  <sub>Fallback: GitHub activity stats (commits, PRs, stars). If the image above doesn’t load, data may be rate-limited; refresh in a minute.</sub>
-  
-  <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShauryaI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&cache_seconds=7200&v=2" alt="Top Languages (fallback below)" />
-  <br/>
-  <sub>Fallback: Language breakdown based on public repos.</sub>
-</div>
+## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=IShauryaI&theme=tokyonight&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false&cache_seconds=7200&v=2" alt="GitHub Streak (fallback below)" />
-  <br/>
-  <sub>Fallback: Contribution streak (current, longest, total). If not visible, try a refresh in 1–2 minutes.</sub>
+
+**13 Public Repositories** • **Master's in Computer Science** • **University of Windsor**
+
+**Focus Areas:** Computer Vision • Machine Learning • Full-Stack Development • UI/UX Design
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IShauryaI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IShauryaI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9)
+
+**Current Streak:** Consistent contributions across ML, web development, and computer vision projects
+
 </div>
 
 ---
@@ -144,10 +133,32 @@ const currentGoals = {
 
 ---
 
+<details>
+<summary>🔗 More Projects</summary>
+<br>
+
+### [🛒 Grocery Delivery System](https://github.com/IShauryaI/grocery_delivery)
+**Django + MySQL** • Real-time Order Management  
+Comprehensive delivery platform with secure payments, inventory management, and multi-user dashboards.
+
+### [✨ Interactive Portfolio Showcase](https://github.com/IShauryaI/shaurya-unfold)
+**React 18 + Vite** • 171+ Monthly Visitors  
+Responsive portfolio application with modern component architecture and comprehensive analytics.
+
+### [🌐 Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io)
+**Astro + Tailwind CSS** • Lighthouse 98+ • WCAG 2.1 AA  
+Performance-optimized portfolio site with dark/light themes, responsive design, and accessibility-first architecture.
+
+</details>
+
+---
+
 <div align="center">
 
-[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=ishauryai&theme=dark&border=no-border&cache_seconds=7200&v=2)](https://leetcode.com/ishauryai/)
+**"Building bridges between intelligent systems, beautiful design, and robust engineering."**
 
-<sub>If this badge doesn’t load, LeetCode’s public API rate limit may be reached; check again later.</sub>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishauryai/)
+
+*Open to collaboration • Available for opportunities • Always learning*
 
 </div>
