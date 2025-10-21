@@ -6,7 +6,7 @@
 Crafting accessible, high-performance digital experiences with data-driven insights.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat&label=Profile+Views)](https://github.com/IShauryaI)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML%2FAI+Engineer;UI%2FUX+Specialist;Computer+Vision+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML%2FAI+Engineer;UI%2FUX+Specialist;Computer+Vision+Researcher&cache_seconds=86400)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://ishauryai.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya)&nbsp;
@@ -22,11 +22,11 @@ Crafting accessible, high-performance digital experiences with data-driven insig
 <tr>
 <td width="50%">
 
-### [🌐 Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io)
-**Astro + Tailwind CSS** • Lighthouse 98+ • WCAG 2.1 AA  
-Performance-optimized portfolio site with dark/light themes, responsive design, and accessibility-first architecture.
+### [🏥 Pranachain](https://github.com/IShauryaI/pranachain)
+**AI + Blockchain Healthcare** • Planning Phase Fall 2025  
+Academic-industry initiative exploring AI and blockchain for healthcare data integrity and predictive analytics.
 
-**Tech:** `Astro` `TypeScript` `Tailwind` `GitHub Actions`
+**Tech:** `Python` `Machine Learning` `Blockchain` `Healthcare AI`
 
 </td>
 <td width="50%">
@@ -42,20 +42,20 @@ Intelligent wellness application leveraging machine learning for personalized he
 <tr>
 <td width="50%">
 
-### [🛒 Grocery Delivery System](https://github.com/IShauryaI/grocery_delivery)
-**Django + MySQL** • Real-time Order Management  
-Comprehensive delivery platform with secure payments, inventory management, and multi-user dashboards.
+### [👀 Stereo Vision & 3D Reconstruction](https://github.com/IShauryaI/stereo-vision-reconstruction)
+**OpenCV + Python** • End-to-End Computer Vision Pipeline  
+Complete stereo vision system from camera calibration to dense 3D point-cloud reconstruction with interactive visualization.
 
-**Tech:** `Django` `MySQL` `Razorpay` `Bootstrap`
+**Tech:** `OpenCV` `Python` `NumPy` `Plotly` `Computer Vision`
 
 </td>
 <td width="50%">
 
-### [✨ Interactive Portfolio Showcase](https://github.com/IShauryaI/shaurya-unfold)
-**React 18 + Vite** • 171+ Monthly Visitors  
-Responsive portfolio application with modern component architecture and comprehensive analytics.
+### [🔍 Microloan Fraud Detection](https://github.com/IShauryaI/microloan-fraud-detection)
+**ML + Data Warehousing** • 11M+ Records Analyzed  
+Comprehensive fraud detection system using XGBoost, Apache Airflow ETL pipelines, and rule-based scoring.
 
-**Tech:** `React 18` `TypeScript` `shadcn/ui` `TanStack Query`
+**Tech:** `XGBoost` `Apache Airflow` `Python` `Data Mining`
 
 </td>
 </tr>
@@ -93,12 +93,12 @@ Responsive portfolio application with modern component architecture and comprehe
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IShauryaI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShauryaI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IShauryaI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShauryaI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=IShauryaI&theme=tokyonight&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=IShauryaI&theme=tokyonight&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
@@ -124,9 +124,29 @@ const currentGoals = {
 
 🚀 **Performance Excellence**: Lighthouse 98+ scores across multiple projects  
 ♿ **Accessibility Champion**: WCAG 2.1 AA compliance in all web applications  
-🌟 **High User Engagement**: 171+ monthly visitors, 8+ min average session duration  
-🔧 **Full Stack Mastery**: End-to-end development from ML models to production deployment  
-📊 **Data-Driven Impact**: Real-world analytics and quantifiable results
+🤖 **Computer Vision Expertise**: End-to-end stereo vision pipeline with 3D reconstruction  
+📊 **Data Science Impact**: Fraud detection system analyzing 11M+ records with 96% ROC-AUC  
+🔧 **Full Stack Mastery**: End-to-end development from ML models to production deployment
+
+---
+
+<details>
+<summary>🔗 More Projects</summary>
+<br>
+
+### [🛒 Grocery Delivery System](https://github.com/IShauryaI/grocery_delivery)
+**Django + MySQL** • Real-time Order Management  
+Comprehensive delivery platform with secure payments, inventory management, and multi-user dashboards.
+
+### [✨ Interactive Portfolio Showcase](https://github.com/IShauryaI/shaurya-unfold)
+**React 18 + Vite** • 171+ Monthly Visitors  
+Responsive portfolio application with modern component architecture and comprehensive analytics.
+
+### [🌐 Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io)
+**Astro + Tailwind CSS** • Lighthouse 98+ • WCAG 2.1 AA  
+Performance-optimized portfolio site with dark/light themes, responsive design, and accessibility-first architecture.
+
+</details>
 
 ---
 
