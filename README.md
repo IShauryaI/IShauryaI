@@ -45,3 +45,29 @@
 ### [Pranachain](https://github.com/IShauryaI/pranachain) - AI + Blockchain Healthcare Platform
 Academic-industry initiative exploring AI and blockchain for healthcare data integrity and predictive analytics.  
 `Python` `Machine Learning` `Blockchain` `Healthcare AI`
+
+### [AI Wellness Platform](https://github.com/IShauryaI/wellbeingaifinalversion) - Personalized Health Insights
+Intelligent wellness app leveraging ML for personalized health recommendations.  
+`React 18` `TensorFlow.js` `TypeScript` `Vite` `shadcn/ui`
+
+### [Stereo Vision & 3D Reconstruction](https://github.com/IShauryaI/stereo-vision-reconstruction)
+End-to-end computer vision pipeline from camera calibration to dense 3D point-cloud reconstruction.  
+`OpenCV` `Python` `NumPy` `Plotly` `Computer Vision`
+
+### [Microloan Fraud Detection](https://github.com/IShauryaI/microloan-fraud-detection) - 11M+ Records • 96% ROC-AUC
+Production fraud detection system using XGBoost and Apache Airflow ETL pipelines.  
+`XGBoost` `Apache Airflow` `Python` `PostgreSQL`
+
+### [Professional Portfolio](https://github.com/IShauryaI/IShauryaI.github.io) - Lighthouse 98+ • WCAG 2.1 AA
+Performance-optimized portfolio with dark/light themes and accessibility-first architecture.  
+`Astro` `Tailwind CSS` `TypeScript`
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IShauryaI&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/IShauryaI?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/IShauryaI?label=Stars" alt="Total Stars">
+</p>
