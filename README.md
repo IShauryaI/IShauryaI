@@ -9,7 +9,7 @@
 - 🚀 Built fraud detection system analyzing 11M+ records with 96% ROC-AUC
 - 🧠 Building AI-powered products across CV, data platforms, and full-stack web
 - 💡 Open to Software Engineering opportunities and Research Collaboration
-- 📫 How to reach me: shauryapd@gmail.com
+- 📫 How to reach me: parshad@uwindsor.ca
 
 <br/>
 
