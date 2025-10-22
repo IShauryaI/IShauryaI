@@ -15,9 +15,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=6000&pause=1000&color=0ea5e9&width=435&lines=Socials%3A)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://ishauryai.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryapd@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/IShauryaI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shaurya](https://www.linkedin.com/in/shaurya-parshad))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshad@uwindsor.ca)
 
 <br/>
 
